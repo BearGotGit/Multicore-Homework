@@ -1,0 +1,8 @@
+# Ignore VS Code settings folder
+.vscode/
+
+# (Optional) add common build artifacts
+build/
+*.o
+*.exe
+treelock_demo
